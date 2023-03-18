@@ -1,0 +1,7 @@
+downloaded_songs/
+English Songs/
+Hindi Songs/
+venv/
+*.wav
+base_64.py
+base64encodedstr.txt
